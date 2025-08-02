@@ -4,6 +4,33 @@
   Released under the MIT License.
 */
 
+/*!
+ * GSAP 3.13.0
+ * https://gsap.com
+ *
+ * @license Copyright 2008-2025, GreenSock. All rights reserved.
+ * Subject to the terms at https://gsap.com/standard-license
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * Observer 3.13.0
+ * https://gsap.com
+ *
+ * @license Copyright 2008-2025, GreenSock. All rights reserved.
+ * Subject to the terms at https://gsap.com/standard-license
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * ScrollTrigger 3.13.0
+ * https://gsap.com
+ *
+ * @license Copyright 2008-2025, GreenSock. All rights reserved.
+ * Subject to the terms at https://gsap.com/standard-license
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
 /*! decimal.js-light v2.5.1 https://github.com/MikeMcl/decimal.js-light/LICENCE */
 
 /**
