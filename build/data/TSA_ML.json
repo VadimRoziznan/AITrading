@@ -1,154 +1,230 @@
 [
   {
     "time": "1746517964",
-    "profit": -3.6
+    "profit": -3.6,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746518021",
-    "profit": -5.35
+    "profit": -5.35,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746518417",
-    "profit": 0.42
+    "profit": 0.42,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746520432",
-    "profit": 1
+    "profit": 1,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746521602",
-    "profit": 1
+    "profit": 1,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746524545",
-    "profit": -3.9
+    "profit": -3.9,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746539292",
-    "profit": -11.05
+    "profit": -11.05,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746548147",
-    "profit": -2.4
+    "profit": -2.4,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746548729",
-    "profit": 12.28
+    "profit": 12.28,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1746549436",
-    "profit": 14.3
+    "profit": 14.3,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747123977",
-    "profit": 1.19
+    "profit": 1.19,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747124915",
-    "profit": -3.1
+    "profit": -3.1,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747148224",
-    "profit": 15.38
+    "profit": 15.38,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747152405",
-    "profit": -10.63
+    "profit": -10.63,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747209816",
-    "profit": -8.4
+    "profit": -8.4,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747214004",
-    "profit": -6
+    "profit": -6,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747282714",
-    "profit": 0.75
+    "profit": 0.75,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747307138",
-    "profit": -7.3
+    "profit": -7.3,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747313760",
-    "profit": -8.4
+    "profit": -8.4,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747639621",
-    "profit": 12.1
+    "profit": 12.1,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747644000",
-    "profit": -10.1
+    "profit": -10.1,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747648707",
-    "profit": -5.1
+    "profit": -5.1,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747660479",
-    "profit": -6.48
+    "profit": -6.48,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1747964670",
-    "profit": 48.4
+    "profit": 48.4,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1749518720",
-    "profit": -5.26
+    "profit": -5.26,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1749538124",
-    "profit": -6.08
+    "profit": -6.08,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750079165",
-    "profit": -4.9
+    "profit": -4.9,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750201661",
-    "profit": -8.28
+    "profit": -8.28,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750201677",
-    "profit": 67.95
+    "profit": 67.95,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750212016",
-    "profit": 1.5
+    "profit": 1.5,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750212016",
-    "profit": -0.96
+    "profit": -0.96,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750212016",
-    "profit": 8.88
+    "profit": 8.88,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750253604",
-    "profit": 210.1
+    "profit": 210.1,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750264864",
-    "profit": 73.25
+    "profit": 73.25,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750264875",
-    "profit": 73.4
+    "profit": 73.4,
+    "type": 1,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750264884",
-    "profit": 72.85
+    "profit": 72.85,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750264889",
-    "profit": 73.1
+    "profit": 73.1,
+    "type": 0,
+    "symbol": "USD/EUR"
   },
   {
     "time": "1750348904",
-    "profit": -9.4
+    "profit": -9.4,
+    "type": 1,
+    "symbol": "USD/EUR"
   }
 ]
